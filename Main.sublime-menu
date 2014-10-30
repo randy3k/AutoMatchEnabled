@@ -1,0 +1,11 @@
+[
+   {
+        "id": "edit",
+        "children":
+        [
+            { "caption": "-", "id" : "auto_match_enabled"},
+            { "command": "toggle_setting", "args": {"setting": "auto_match_enabled"}, "caption": "Auto Match Enabled", "checkbox": true }
+         ]
+
+    }
+]

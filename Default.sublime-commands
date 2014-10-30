@@ -1,0 +1,7 @@
+[
+    {
+        "caption": "Auto Match Enabled: Toggle",
+        "command": "toggle_setting", 
+        "args": {"setting": "auto_match_enabled"}
+    }
+]
